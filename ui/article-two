@@ -1,0 +1,18 @@
+<html>
+    <head>
+        <title>
+            Article-two | Sahana K L
+        </title>
+    </head>
+    <body>
+        <div>
+        <a href="/">Home</a>
+        </div>
+        <hr>
+        <h3>Article-two</h3>
+        <div>
+            Sept 25,2017
+        </div>
+         <p>this is article2</p>
+    </body>
+</html>
